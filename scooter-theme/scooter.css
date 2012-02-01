@@ -3,3 +3,11 @@
 #main-table {
   background-image: url(scooter.png) !important;
 }
+
+td#top-panel img[alt='title'] {
+  display: none;
+}
+
+td#top-panel  {
+  background-image: url(scooter-icon.gif) no-repeat !important;
+}
