@@ -9,6 +9,7 @@ td#top-panel img[alt='title'] {
 }
 
 td#top-panel  {
+  background-color: #44848E;
   background-image: url(scooter-header2.png) !important;
   background-repeat:no-repeat;
 }
