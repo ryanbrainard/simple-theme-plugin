@@ -3,3 +3,7 @@
 #main-table {
   background-image: url(scooter.png) !important;
 }
+
+td#top-panel img[alt='title'] {
+  src: url(scooter.png) !important;
+}
