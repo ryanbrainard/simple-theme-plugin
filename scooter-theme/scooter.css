@@ -5,5 +5,5 @@
 }
 
 td#top-panel img[alt='title'] {
-  src: url(scooter.png) !important;
+  display:none;
 }
