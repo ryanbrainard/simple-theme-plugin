@@ -5,6 +5,9 @@
 }
 
 td#top-panel img[alt='title'] {
+  display: none;
+}
+
+td#top-panel  {
   background-image: url(scooter.png) !important;
-  z-index:20;
 }
