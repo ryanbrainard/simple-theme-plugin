@@ -10,4 +10,5 @@ td#top-panel img[alt='title'] {
 
 td#top-panel  {
   background-image: url(scooter-icon.gif) !important;
+  background-repeat:no-repeat;
 }
